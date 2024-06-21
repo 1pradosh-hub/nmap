@@ -1,5 +1,5 @@
 # nmap
-This is a simple nmap like port scanner in python using  nmap module 
+This is a simple nmap like port scanner in python using  nmap library
 
 Run command 
 
